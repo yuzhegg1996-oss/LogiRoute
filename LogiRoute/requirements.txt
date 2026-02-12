@@ -1,0 +1,12 @@
+mysql-connector-python
+openai
+pandas
+datasets
+ragas
+langchain-openai
+langchain-huggingface
+langchain-core
+requests
+marker-pdf
+python-docx
+python-dotenv
